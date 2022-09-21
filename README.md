@@ -1,10 +1,15 @@
 # Hi there! 🙋🏻                                                        
                                  
 
-I'm Naveen , I am Data analyst and Data engineer from India.  
-I am a result oriented professional with Overall 6+ Years of experience in the field of Power & energy sector.  
-I am currently working as an Indutrial analyst and Data Engineer mainly in Microsoft Azure technology. 
+I'm Naveen , I am a Data analyst & engineer from India.  
 
+
+## ✨ About Me in 30 Secs ✨
+
+- I am a result oriented professional with Overall 6+ Years of experience in the field of Power & energy sector.  
+- I am currently working as an Indutrial analyst & Data Engineer mainly in Microsoft Azure technology. 
+- I have completed nanodgree program in Data engineering from Udacity.
+- 
 
 
 ## 📚 Projects & Guides 📚
