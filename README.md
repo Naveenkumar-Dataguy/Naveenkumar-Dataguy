@@ -26,6 +26,7 @@ I'm Naveen , I am an Industrial Data analyst & engineer from India.
 - Click [HERE]() to view my complete projects portfolio.
 
 
+
 ## 💡 Core Competencies 💡
 
 ### Tools 
@@ -43,24 +44,22 @@ I'm Naveen , I am an Industrial Data analyst & engineer from India.
 - **Automation** (Terrafrom, Packers)
 
 
-Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
-Tool & Platform considered are - Apache Spark, SQL, Azure Databricks, ADF, ADLS, Python. Pycharm, PySpark
-Currently working as an Azure Data Engineer with experience in various Cloud tools and technology. I have sound knowledge of Azure Cloud services like Azure Databricks, Azure Data Lake System, Azure Data Warehouse, Synapse Analytics Azure Data Factory with exposure to Spark framework (Spark SQL, Pyspark, scala), Developing ETL Pipelines and Automating it through triggers in Azure Data Factory.
+### Skills: 
+
+   Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development, Developing ETL piplines,
+   Automating piplines 
+
+
 
 ## ⚡️ Currently ⚡️
 
-Brushing up on data cleaning and wrangling skills using Python  
-Learning database administration  
-Course: World Quant University Applied Data Science Lab  
-Course: MySQL Data Analysis & Business Intelligence  
+- Brushing up on data cleaning and wrangling skills using Python  
+- Learning database administration  
+- Preparing for Microsoft Azure Data analyst Certification. 
 
-##n🙌🏻 Connect with Me
+
+## 🙌🏻 Connect with Me
 
 [LinkedIn]()
-Medium
-Kaggle ˋ( ° ▽、° ) 
-
-naveewn kumar   
-amit 
 
 
