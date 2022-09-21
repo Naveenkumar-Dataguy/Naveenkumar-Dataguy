@@ -1,6 +1,6 @@
 # Hi there! 🙋🏻    
                                                      
-                                 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-b67005236/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](naveen.ku540088@gmail.com)                                  
 
 I'm Naveen , I am an Industrial Data analyst & engineer from India.  
 
@@ -59,10 +59,7 @@ I'm Naveen , I am an Industrial Data analyst & engineer from India.
 - Preparing for Microsoft Azure Data analyst Certification. 
 
 
-## 🙌🏻 Connect with Me
+## 🙌🏻 Github Stats
   
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-b67005236/)  
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](naveen.ku540088@gmail.com)
- 
  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Naveenkumar-Dataguy)](https://github.com/Naveenkumar-Dataguy)  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-Dataguy&layout=compact)](https://github.com/Naveenkumar-Dataguy)  
