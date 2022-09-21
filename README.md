@@ -47,7 +47,12 @@ I'm Naveen , I am an Industrial Data analyst & engineer from India.
 
 ### Skills: 
 
-   Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development, Developing ETL piplines,
+   Data Cleaning and Wrangling
+   Data Visualisation
+   Data Analysis
+   Relational Databases
+   Dashboard Design and Development
+   Developing ETL piplines
    Automating piplines 
 
 
@@ -65,4 +70,3 @@ I'm Naveen , I am an Industrial Data analyst & engineer from India.
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-Dataguy&layout=compact)](https://github.com/Naveenkumar-Dataguy)  
  
  
-![](https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/2077/3-stats.svg)
