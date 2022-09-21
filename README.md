@@ -47,13 +47,13 @@ I'm Naveen , I am an Industrial Data analyst & engineer from India.
 
 ### Skills: 
 
-   Data Cleaning and Wrangling
-   Data Visualisation
-   Data Analysis
-   Relational Databases
-   Dashboard Design and Development
-   Developing ETL piplines
-   Automating piplines 
+- Data Cleaning and Wrangling  
+- Data Visualisation  
+- Data Analysis  
+- Relational Databases  
+- Dashboard Design and Development  
+- Developing ETL piplines  
+- Automating piplines   
 
 
 
