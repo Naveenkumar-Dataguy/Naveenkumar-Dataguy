@@ -1,6 +1,6 @@
 # Hi there! 🙋🏻    
                                                      
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-b67005236/)    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](naveen.ku540088@gmail.com)                                  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-naveen-kumar/)          [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](naveen.ku540088@gmail.com)                                  
 
 I'm Naveen , I am an Industrial Data analyst & engineer from India.  
 
